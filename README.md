@@ -131,6 +131,7 @@
     <th>Pandas</th>
     <th>Numpy</th>
     <th>Selenium</th>
+    <th>JWT</th>
     
   </tr>
   <tr>
@@ -138,6 +139,7 @@
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></td>
+   <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/></td>
 
   </tr>
 </table>
