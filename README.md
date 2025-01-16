@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=weski17&label=Profile%20views&color=0e75b6&style=flat" alt="weski17" />
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>image processing and React</strong></p>
+<p align="center">🌱 I’m currently learning <strong>Deep Learning and React</strong></p>
 
 <p align="center">📫 How to reach me: <strong>wael.eskeif1@hsbi.de</strong></p>
 
