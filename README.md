@@ -5,10 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=weski17&label=Profile%20views&color=0e75b6&style=flat" alt="weski17" />
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>Deep Learning and React</strong></p>
+<p align="center">🌱 I’m currently learning <strong>Deep Learning</strong></p>
 
 <p align="center">📫 How to reach me: <strong>wael.eskeif1@hsbi.de</strong></p>
-
 
 <h3 align="center">Operating Systems:</h3>
 <table align="center">
@@ -19,10 +18,10 @@
     <th>Windows</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></td>
-    <td align="center"><img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="55" height="55"/></td>
   </tr>
 </table>
 
@@ -32,11 +31,21 @@
     <th>HTML</th>
     <th>CSS</th>
     <th>JavaScript</th>
+    <th>Vue.js</th>
+    <th>React</th>
+    <th>Nuxt3</th>
+    <th>Vuetify</th>
+    <th>Tailwind CSS</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/NuxtJS_Logo.png" width="55" height="55"/></td>
+    <td align="center"><img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.png" width="55" height="55"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/></td>
   </tr>
 </table>
 
@@ -47,12 +56,14 @@
     <th>C++</th>
     <th>Python</th>
     <th>Java</th>
+    <th>Kotlin</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="55" height="55"/></td>
   </tr>
 </table>
 
@@ -63,62 +74,70 @@
     <th>MySQL</th>
     <th>SQLAlchemy</th>
     <th>PostgreSQL</th>
+    <th>Supabase</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.sqlalchemy.org/img/sqla_logo.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
-<h3 align="center">Environments, Testing, Other:</h3>
+<h3 align="center">Cloud & DevOps Tools:</h3>
 <table align="center">
   <tr>
+    <th>AWS</th>
+    <th>Azure</th>
     <th>Docker</th>
     <th>Docker Compose</th>
     <th>Kubernetes</th>
-    <th>Grafana</th>
-    <th>Swagger</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <th>Postman</th>
-    <th>Pytest</th>
-    <th>Node.js</th>
-    <th>Git</th>
     <th>Jenkins</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/></td>
+  </tr>
+</table>
+
+<h3 align="center">Testing, Monitoring & API Tools:</h3>
+<table align="center">
+  <tr>
+    <th>Postman</th>
+    <th>Pytest</th>
+    <th>Swagger</th>
+    <th>Grafana</th>
+    <th>Playwright</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
 <h3 align="center">Key Libraries and Frameworks:</h3>
 <table align="center">
   <tr>
+    <th>FastAPI</th>
+    <th>Pydantic</th>
     <th>bcrypt</th>
     <th>paypalrestsdk</th>
-    <th>Pydantic</th>
-    <th>FastAPI</th>
     <th>CCXT</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="bcrypt" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal SDK" width="40" height="40"/></td>
-    <td align="center"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/python-icon.png" alt="Pydantic" width="40" height="40"/></td>
-    <td align="center"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/825/825540.png" alt="CCXT" width="40" height="40"/></td>
+    <td align="center"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/python-icon.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/825/825540.png" width="40" height="40"/></td>
   </tr>
   <tr>
     <th>OpenCV</th>
@@ -126,15 +145,27 @@
     <th>Numpy</th>
     <th>Selenium</th>
     <th>JWT</th>
-    
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/></td>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></td>
-   <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/></td>
-
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <th>TensorFlow</th>
+    <th>PyTorch</th>
+    <th>Matplotlib</th>
+    <th>Scikit-learn</th>
+    <th>BeautifulSoup</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/beautifulsoup.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
