@@ -43,8 +43,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://nuxt.com/assets/design-kit/logo-icon-green.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.png" width="55" height="55"/></td>
+    <td align="center"><img src="icons\nuxt.svg" width="55" height="55"/></td>
+    <td align="center"><img src="icons\vuetify.png" width="55" height="55"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/></td>
   </tr>
 </table>
@@ -96,7 +96,7 @@
     <th>Jenkins</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="icons\amazon-web-services.webp" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
@@ -163,9 +163,9 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" height="40"/></td>
+    <td align="center"><img src="icons\Matplotlib_icon.svg.png" width="40" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/beautifulsoup.svg" width="40" height="40"/></td>
+    <td align="center"><img src="icons\beautifulsoup.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
