@@ -43,7 +43,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/NuxtJS_Logo.png" width="55" height="55"/></td>
+    <td align="center"><img src="https://nuxt.com/assets/design-kit/logo-icon-green.svg" width="55" height="55"/></td>
     <td align="center"><img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.png" width="55" height="55"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/></td>
   </tr>
