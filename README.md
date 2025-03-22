@@ -32,22 +32,43 @@
     <th>CSS</th>
     <th>JavaScript</th>
     <th>Vue.js</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/>
+    </td>
+  </tr>
+  <tr>
     <th>React</th>
     <th>Nuxt3</th>
     <th>Vuetify</th>
     <th>Tailwind CSS</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/></td>
-    <td align="center"><img src="icons\nuxt.svg" width="55" height="55"/></td>
-    <td align="center"><img src="icons\vuetify.png" width="55" height="55"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="icons/nuxt.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="icons/vuetify.png" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/>
+    </td>
   </tr>
 </table>
+
 
 <h3 align="center">Programming Languages:</h3>
 <table align="center">
