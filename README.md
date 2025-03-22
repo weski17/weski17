@@ -31,7 +31,6 @@
     <th>HTML</th>
     <th>CSS</th>
     <th>JavaScript</th>
-    <th>Vue.js</th>
   </tr>
   <tr>
     <td align="center">
@@ -43,28 +42,37 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
     </td>
+  </tr>
+  <tr>
+    <th>Vue.js</th>
+    <th>React</th>
+    <th>Nuxt3</th>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55"/>
     </td>
-  </tr>
-  <tr>
-    <th>React</th>
-    <th>Nuxt3</th>
-    <th>Vuetify</th>
-    <th>Tailwind CSS</th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/>
     </td>
     <td align="center">
       <img src="icons/nuxt.svg" width="55" height="55"/>
     </td>
+  </tr>
+  <tr>
+    <th>Vuetify</th>
+    <th>Tailwind CSS</th>
+    <th>Figma</th>
+  </tr>
+  <tr>
     <td align="center">
       <img src="icons/vuetify.png" width="55" height="55"/>
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55"/>
     </td>
   </tr>
 </table>
