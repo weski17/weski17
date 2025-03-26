@@ -201,6 +201,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=weski17&show_icons=true&locale=en&layout=compact" alt="weski17" />
   <img src="https://github-readme-stats.vercel.app/api?username=weski17&show_icons=true&locale=en" alt="weski17" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weski17&theme=default" alt="GitHub Streak" />
 
 </div>
