@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=weski17&label=Profile%20views&color=0e75b6&style=flat" alt="weski17" />
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>Deep Learning</strong></p>
+<p align="center">🌱 I'm currently learning <strong>Deep Learning</strong></p>
 
 <p align="center">📫 How to reach me: <strong>wael.eskeif1@hsbi.de</strong></p>
 
@@ -195,6 +195,16 @@
     <td align="center"><img src="icons\Matplotlib_icon.svg.png" width="40" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
     <td align="center"><img src="icons\beautifulsoup.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <th>XGBoost</th>
+    <th>Optuna</th>
+    <th>Seaborn</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
