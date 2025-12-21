@@ -208,7 +208,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="40" height="40"/></td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/9672/9672495.png" width="40" height="40"/></td>
   </tr>
 </table>
 
