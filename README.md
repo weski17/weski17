@@ -200,11 +200,15 @@
     <th>XGBoost</th>
     <th>Optuna</th>
     <th>Seaborn</th>
+    <th>LightGBM</th>
+    <th>Plotly</th>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="40" height="40"/></td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
